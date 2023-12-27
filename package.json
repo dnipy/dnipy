@@ -2,7 +2,7 @@
   "name": "react-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": ".",
+  "homepage": "https://dnipy.github.io/dnipy/",
   "type": "module",
   "scripts": { 
     "predeploy": "npm run build",
