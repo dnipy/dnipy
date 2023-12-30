@@ -1,14 +1,14 @@
 {
-  "name": "react-portfolio",
+  "name": "dnipy",
   "private": true,
   "version": "0.0.0",
-  "homepage": "/dnipy",
+  "homepage": "https://dnipy.github.io/dnipy/",
   "type": "module",
   "scripts": { 
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
-    "build": "vite build --base=/dnipy",
+    "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
