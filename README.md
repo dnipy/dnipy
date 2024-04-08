@@ -35,4 +35,6 @@ I'm 20 YO web developer and im currently focusing on react and expressjs
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dnipy.github.io/me)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dnipy)
+[![gitlab](https://img.shields.io/badge/gitlab-E24329?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/danial_rahmani)
+
 
