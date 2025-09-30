@@ -1,8 +1,8 @@
 
 # Hi, I'm Danial ! 👋
-👩‍💻 I'm currently working on MOI projects
+👩‍💻 I'm currently working on Langoo AI
 
-🧠 I'm currently learning Web3 and solidty
+🧠 I'm currently learning AI Integrated systems
 
 👯‍♀️ I'm looking to collaborate on Eth bassed projects
 
@@ -19,7 +19,7 @@
     +98(903)509-5691
 ```
 ## 🚀 About Me
-I'm 20 YO web developer and im currently focusing on react and expressjs 
+I'm 21 YO web developer and im currently focusing on react and expressjs 
 
 
 ## 🛠 Skills
