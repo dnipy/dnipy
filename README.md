@@ -1,40 +1,112 @@
+# Hi, I'm Danial Rahmani 👋
 
-# Hi, I'm Danial ! 👋
-👩‍💻 I'm currently working on Langoo AI
+Senior Frontend Engineer with 4+ years of experience building enterprise web applications across government, AI, fintech, Web3, and education domains.
 
-🧠 I'm currently learning AI Integrated systems
+Currently building **Langoo**, an AI-powered education platform focused on scalable architecture, modern frontend engineering, and production-grade backend systems.
 
-👯‍♀️ I'm looking to collaborate on Eth bassed projects
+---
 
-🤔 I'm looking for help with blockchain
+## 🚀 What I'm Working On
 
-💬 Ask me about anything you want
+- 🧠 Building **Langoo AI**
+- ⚡ Designing scalable AI-integrated systems
+- 🏗️ Building production-ready backend infrastructure with NestJS & PostgreSQL
+- 🤖 Exploring AI workflows, background workers, and event-driven architectures
+- 🌍 Contributing to modern web technologies and open-source projects
 
-📫 How to reach me :
-- email : dnipy@protonmail.com
-- phone : 
-```
-    +1(661)556-9831
-    ----------------
-    +98(903)509-5691
-```
-## 🚀 About Me
-I'm 21 YO web developer and im currently focusing on react and expressjs 
+---
 
+## 💼 About Me
 
-## 🛠 Skills
-- Typescript
-- React.js ( Next.js )
+- 💻 Senior Frontend Engineer specializing in React & Next.js
+- ⚙️ Full Stack Engineer experienced with NestJS, PostgreSQL, Redis, and Docker
+- 🏛️ Built enterprise software for government, fintech, Web3, AI, and education platforms
+- 📐 Passionate about frontend architecture, developer experience, and scalable systems
+- 🚀 Always interested in solving challenging engineering problems
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+- React
+- Next.js
+- TypeScript
+- Material UI
+- Tailwind CSS
+- TanStack Query
+- React Hook Form
+- Zod
+- D3.js
+- Leaflet
+
+### Backend
+
 - Node.js
+- NestJS
 - Express.js
-- Web3.js
-- Solidity
+- Prisma ORM
+- PostgreSQL
+- Redis
+- PgBouncer
+- REST APIs
 
+### AI
 
+- OpenAI APIs
+- RAG
+- AI Workflow Integration
+- Background Workers
+- Event-Driven Architecture
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dnipy.github.io/me)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dnipy)
-[![gitlab](https://img.shields.io/badge/gitlab-E24329?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/danial_rahmani)
+### DevOps
 
+- Docker
+- Docker Compose
+- Linux
+- Git
+- GitHub Actions
+- Nginx
+- Caddy
 
+### Authentication
+
+- OpenID Connect (OIDC)
+- Keycloak
+- JWT
+- RBAC
+- ABAC
+
+---
+
+## 🤝 Open to Collaborate
+
+I'm always interested in collaborating on projects involving:
+
+- AI Applications
+- Developer Tools
+- Enterprise Software
+- Frontend Architecture
+- Open Source
+- Web Infrastructure
+
+---
+
+## 📫 Contact
+
+**Email:** dnipy@protonmail.com
+
+**Phone**
+
+```text
++98 (903) 509-5691
+```
+
+---
+
+## 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dnipy.github.io/me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dnipy)
+[![GitLab](https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/danial_rahmani)
