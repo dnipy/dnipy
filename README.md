@@ -1,112 +1,42 @@
-# Hi, I'm Danial Rahmani 👋
+# Hi, I'm Danial 👋
 
-Senior Frontend Engineer with 4+ years of experience building enterprise web applications across government, AI, fintech, Web3, and education domains.
+**Software Engineer focused on backend and systems engineering.**
 
-Currently building **Langoo**, an AI-powered education platform focused on scalable architecture, modern frontend engineering, and production-grade backend systems.
+I enjoy understanding how software works beneath the surface — **databases, networking, concurrency, distributed systems, infrastructure, observability, and reliable architecture.**
 
----
+Over the last year, I've been building **[Langoo](https://langoo.space)**, an AI-powered education platform, while increasingly focusing on the engineering behind the product.
 
-## 🚀 What I'm Working On
+### 🔨 Currently
 
-- 🧠 Building **Langoo AI**
-- ⚡ Designing scalable AI-integrated systems
-- 🏗️ Building production-ready backend infrastructure with NestJS & PostgreSQL
-- 🤖 Exploring AI workflows, background workers, and event-driven architectures
-- 🌍 Contributing to modern web technologies and open-source projects
+* Building and scaling **Langoo**
+* Going deeper into **backend engineering & systems**
+* Learning **Go, networking, concurrency, and distributed systems**
+* Building small systems projects to understand the fundamentals
 
----
+### 🧰 Technologies
 
-## 💼 About Me
+**Languages:** TypeScript · Go (Learning)
 
-- 💻 Senior Frontend Engineer specializing in React & Next.js
-- ⚙️ Full Stack Engineer experienced with NestJS, PostgreSQL, Redis, and Docker
-- 🏛️ Built enterprise software for government, fintech, Web3, AI, and education platforms
-- 📐 Passionate about frontend architecture, developer experience, and scalable systems
-- 🚀 Always interested in solving challenging engineering problems
+**Backend:** Node.js · NestJS · PostgreSQL · Redis · Prisma
 
----
+**Infrastructure:** Docker · Linux · NGINX · Caddy · GitHub Actions
 
-## 🛠 Tech Stack
+**Systems:** Networking · Event-Driven Architecture · Background Jobs · Observability · Distributed Systems
 
-### Frontend
+**Frontend:** React · Next.js
 
-- React
-- Next.js
-- TypeScript
-- Material UI
-- Tailwind CSS
-- TanStack Query
-- React Hook Form
-- Zod
-- D3.js
-- Leaflet
+### 📌 Projects
 
-### Backend
+* **[Langoo](https://langoo.space)** — AI-powered education platform
+* **Langoo Monitor** — Service monitoring system with health probes, state tracking, and event-driven alerts
+* More backend & systems projects in progress.
 
-- Node.js
-- NestJS
-- Express.js
-- Prisma ORM
-- PostgreSQL
-- Redis
-- PgBouncer
-- REST APIs
+### 🎯 Direction
 
-### AI
+I'm particularly interested in **backend, infrastructure, and systems engineering** — especially problems involving performance, reliability, concurrency, and distributed systems.
 
-- OpenAI APIs
-- RAG
-- AI Workflow Integration
-- Background Workers
-- Event-Driven Architecture
+### 📫 Contact
 
-### DevOps
+**Email:** [dnipy@protonmail.com](mailto:dnipy@protonmail.com)
 
-- Docker
-- Docker Compose
-- Linux
-- Git
-- GitHub Actions
-- Nginx
-- Caddy
-
-### Authentication
-
-- OpenID Connect (OIDC)
-- Keycloak
-- JWT
-- RBAC
-- ABAC
-
----
-
-## 🤝 Open to Collaborate
-
-I'm always interested in collaborating on projects involving:
-
-- AI Applications
-- Developer Tools
-- Enterprise Software
-- Frontend Architecture
-- Open Source
-- Web Infrastructure
-
----
-
-## 📫 Contact
-
-**Email:** dnipy@protonmail.com
-
-**Phone**
-
-```text
-+98 (903) 509-5691
-```
-
----
-
-## 🌐 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dnipy.github.io/me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dnipy)
-[![GitLab](https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/danial_rahmani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/dnipy)
